@@ -1,0 +1,544 @@
+C:\Users\einar\test\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\einar\test\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\einar\test\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\einar\test\Temp\bin\Debug\mscorlib.dll
+C:\Users\einar\test\Temp\bin\Debug\netstandard.dll
+C:\Users\einar\test\Temp\bin\Debug\System.AppContext.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Collections.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\einar\test\Temp\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\einar\test\Temp\bin\Debug\System.ComponentModel.dll
+C:\Users\einar\test\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\einar\test\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\einar\test\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Console.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Core.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Data.Common.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Data.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\einar\test\Temp\bin\Debug\System.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Drawing.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Globalization.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\einar\test\Temp\bin\Debug\System.IO.Compression.dll
+C:\Users\einar\test\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\Users\einar\test\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\einar\test\Temp\bin\Debug\System.IO.dll
+C:\Users\einar\test\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\einar\test\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\einar\test\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\einar\test\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\einar\test\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\einar\test\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\einar\test\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Users\einar\test\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Linq.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Net.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Net.Http.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Net.Ping.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Net.Requests.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Net.Security.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Numerics.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\einar\test\Temp\bin\Debug\System.ObjectModel.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Reflection.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Runtime.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Security.Claims.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Security.Principal.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Users\einar\test\Temp\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Threading.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Transactions.dll
+C:\Users\einar\test\Temp\bin\Debug\System.ValueTuple.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Web.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Windows.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Xml.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Xml.Serialization.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Users\einar\test\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\einar\test\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\Users\einar\test\Temp\bin\Debug\Unity.Rider.Editor.dll
+C:\Users\einar\test\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\einar\test\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\einar\test\Temp\bin\Debug\Unity.Timeline.dll
+C:\Users\einar\test\Temp\bin\Debug\Unity.Timeline.Editor.dll
+C:\Users\einar\test\Temp\bin\Debug\Unity.VSCode.Editor.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEditor.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\einar\test\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+C:\Users\einar\test\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\einar\test\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\einar\test\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\einar\test\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\einar\test\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEditor.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\einar\test\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Users\einar\test\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+C:\Users\einar\test\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\Users\einar\test\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Users\einar\test\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\Users\einar\test\Temp\bin\Debug\Unity.Rider.Editor.pdb
+C:\Users\einar\test\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Users\einar\test\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\Users\einar\test\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+C:\Users\einar\test\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+C:\Users\einar\test\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\einar\test\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\einar\test\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\einar\test\obj\Debug\Assembly-CSharp.dll
+C:\Users\einar\test\obj\Debug\Assembly-CSharp.pdb
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\mscorlib.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\netstandard.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.AppContext.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Collections.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.ComponentModel.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Console.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Core.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Data.Common.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Data.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Drawing.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Globalization.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.IO.Compression.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.IO.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.IO.Pipes.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Linq.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Net.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Net.Http.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Net.Ping.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Net.Primitives.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Net.Requests.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Net.Security.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Net.Sockets.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Numerics.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.ObjectModel.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Reflection.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Resources.Reader.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Resources.Writer.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Runtime.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Security.Claims.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Security.Principal.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Security.SecureString.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Text.Encoding.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Threading.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Threading.Thread.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Threading.Timer.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Transactions.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.ValueTuple.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Web.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Windows.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Xml.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Xml.Linq.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Xml.XPath.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.Rider.Editor.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.Timeline.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.Timeline.Editor.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.VSCode.Editor.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEditor.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEditor.UI.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.Cecil.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEditor.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.UI.pdb
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.Timeline.pdb
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.Rider.Editor.pdb
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEditor.UI.pdb
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\Temp\bin\Debug\UnityEngine.TestRunner.pdb
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\obj\Debug\Assembly-CSharp.dll
+D:\Tækniskóli\Leikja Forritun\Leikjaforritun\Verkefni 2\obj\Debug\Assembly-CSharp.pdb
