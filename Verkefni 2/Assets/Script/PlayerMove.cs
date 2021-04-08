@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class PlayerMove : MonoBehaviour
 {
@@ -16,7 +17,7 @@ public class PlayerMove : MonoBehaviour
     // Rigidbody
     private Rigidbody leikmadur;
     // Stigin sem leikmaður er með
-    private int Score;
+    private static int Score = 0;
     // Textinn sem leikmaður sér (Text object)
     public Text ScoreText;
 
@@ -25,11 +26,17 @@ public class PlayerMove : MonoBehaviour
     {
         //Debug.Log("Hallo - Einar Darri");
         leikmadur = GetComponent<Rigidbody>();
+        SetScoreText();
     }
 
     // Fixed Update er kallað 60 sinum á sec
     void FixedUpdate()
     {
+        // ef leikamður dettur enda leikinn
+        if (transform.position.y <= -10)
+        {
+            SceneManager.LoadScene(3);
+        }
         // fara áfram ef það er ýtt á ↑ örrina
         if (Input.GetKey(KeyCode.UpArrow))
         {
@@ -61,6 +68,11 @@ public class PlayerMove : MonoBehaviour
     void SetScoreText()
     {
         ScoreText.text = "Stig Þín eru : " + Score.ToString();
+    }
+    //enduræsa stig leikmans
+    public void ResetScore()
+    {
+        Score = 0;
     }
     // þegar leikmaður rekst á einhvað
     private void OnCollisionEnter(Collision collision)
