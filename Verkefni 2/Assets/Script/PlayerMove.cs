@@ -37,6 +37,10 @@ public class PlayerMove : MonoBehaviour
         {
             SceneManager.LoadScene(3);
         }
+        if (Input.GetKey(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
         // fara áfram ef það er ýtt á ↑ örrina
         if (Input.GetKey(KeyCode.UpArrow))
         {
