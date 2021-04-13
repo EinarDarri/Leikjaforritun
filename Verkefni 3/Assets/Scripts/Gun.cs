@@ -15,7 +15,7 @@ public class Gun : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
      if (Input.GetKey(KeyCode.Q)){
             // gera nýjan game object sem er skot
