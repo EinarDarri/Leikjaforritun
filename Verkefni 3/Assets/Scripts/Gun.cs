@@ -17,15 +17,15 @@ public class Gun : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-     if (Input.GetKey(KeyCode.Q)){
+     if (Input.GetMouseButtonDown(0)){
             // gera nýjan game object sem er skot
             GameObject Skot = Instantiate(Bullet, transform.position, transform.rotation) as GameObject;
             // ná í rigidbody hjá skoti
             Rigidbody Skot_Rigidbody = Skot.GetComponent<Rigidbody>();
             // Henda skotinu áfram
             Skot_Rigidbody.AddForce(transform.forward * Skot_Hradi);
-            // eyða skotinu eftir 5 sec til að filla ekki upp leikinn
-            Destroy(Skot, 5);
+            // eyða skotinu eftir 3 sec til að filla ekki upp leikinn
+            Destroy(Skot, 3f);
         }   
     }
 }

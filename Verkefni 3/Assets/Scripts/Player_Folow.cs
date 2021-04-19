@@ -5,14 +5,20 @@ using UnityEngine;
 public class Player_Folow : MonoBehaviour
 {
     // beita Fyrir leiman svo óvinur viti hvern á að elta
-    public GameObject Player;
-    public float speed = 0.052f;
+    Transform Player;
+    float speed = 0.052f;
     // það sem Y ásin fyrir rotation þar að vera styltur á til að óvinur snýr að leikmani
     float rotation;
     // leingdin á X ás að leikmanni
     float x;
     // leingdin á Z ás að leikmanni
     float z;
+    void Start()
+    {
+        // Fina Game object með nafnið ↓ og taka transform frá því til að vinna með
+        Player = GameObject.Find("FPSController").GetComponent<Transform>();
+    }
+
     // fall til að finna út í hvaða átt leikmaður er
     void find_player()
     {
