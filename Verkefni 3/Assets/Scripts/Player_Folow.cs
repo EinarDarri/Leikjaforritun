@@ -32,11 +32,18 @@ public class Player_Folow : MonoBehaviour
         //Debug.Log(rotation);
         transform.rotation = Quaternion.Euler(0, rotation, 0);
     }
-
+    float Detection_range(){
+        float r = Mathf.Sqrt(x * x + z * z);
+        return r;
+}
     // Update er kallað 60 sinnum á sec
     void FixedUpdate()
     {
         find_player();
-        transform.position += transform.forward * speed;
+        // detection range til að það er ekki altaf verið að elta leikman
+        if (Detection_range() <= 100)
+        {
+            transform.position += transform.forward * speed;
+        }
     }
 }

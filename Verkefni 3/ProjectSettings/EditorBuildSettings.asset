@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Upphaf.unity
+    guid: 109f16fdf2fb7bc4aab17b65ddf0a728
+  - enabled: 1
+    path: Assets/Scenes/Leikur.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Enda sena.unity
+    guid: 44a3d1fd2e0d8ac49a8c5a0da6b069cb
   m_configObjects: {}

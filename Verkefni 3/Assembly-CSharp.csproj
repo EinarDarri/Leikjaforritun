@@ -71,7 +71,9 @@
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <Compile Include="Assets\Scripts\Gun.cs" />
+    <Compile Include="Assets\Scripts\Play_Col.cs" />
     <Compile Include="Assets\Scripts\Player_Folow.cs" />
+    <Compile Include="Assets\Scripts\Scene_Swap.cs" />
     <Compile Include="Assets\Scripts\Score_Manager.cs" />
     <Compile Include="Assets\Scripts\Skot.cs" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
