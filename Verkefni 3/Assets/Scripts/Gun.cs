@@ -8,13 +8,7 @@ public class Gun : MonoBehaviour
     public GameObject Bullet;
     // breita fyrir hraða á Skoti
     public float Skot_Hradi = 0;
-    // Start is called before the first frame update
-    void Start()
-    {
 
-    }
-
-    // Update is called once per frame
     void FixedUpdate()
     {
      if (Input.GetMouseButtonDown(0)){

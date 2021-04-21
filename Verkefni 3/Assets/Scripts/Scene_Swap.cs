@@ -12,8 +12,10 @@ public class Scene_Swap : MonoBehaviour
     // Fyrir takka
     public void Byrja()
     {
+        // ef að það er teingdur score Manager
         if (Player != null)
         {
+            // þá skal enduræsa Score Manager
             Player.GetComponent<Score_Manager>().ResetScore();
         }
         SceneManager.LoadScene(sean);

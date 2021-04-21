@@ -6,20 +6,24 @@ public class Skot : MonoBehaviour
 {
     // ScoreM = Score Manager
     GameObject scoreM;
-    Score_Manager A;
+    Score_Manager Score;
     private void Start()
     {
+        // teingjast við Score Manager
         scoreM = GameObject.Find("Score Holder");
-        A = scoreM.GetComponent<Score_Manager>();
+        Score = scoreM.GetComponent<Score_Manager>();
     }
     // þetta er keyrt þegar skotið snertir einhvað
     private void OnCollisionEnter(Collision collision)
     {
+        // ef að skotið leindir á óvini
         if (collision.collider.tag == "Enemy")
         {
             try
             {
-                A.Up_Score(5);
+                // hæka stig leikmans um 5
+                Score.Up_Score(5);
+                // eyða óvini
                 Destroy(collision.gameObject);
             }
             catch { }

@@ -14,6 +14,7 @@ public class Play_Col : MonoBehaviour
     {
         // finna game objectið sem managar Score
         Score_Man = GameObject.Find("Score Holder");
+        // teingjast við score Manager
         Score_M = Score_Man.GetComponent<Score_Manager>();
         detta();
     }
@@ -29,6 +30,7 @@ public class Play_Col : MonoBehaviour
         }
         // gera tilbúið að gá afur hvort að leikmaður hafi dottið
         y = transform.position.y;
+        // keyra fall aftur eftir 1 sec
         Invoke("detta", 1);
     }
     void FixedUpdate()
