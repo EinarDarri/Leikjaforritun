@@ -46,8 +46,9 @@ public class Play_Col : MonoBehaviour
         // ef að leikmaður snertir óvin 
         if (collision.collider.tag == "Enemy")
         {
+            int loss = collision.collider.gameObject.GetComponent<Enemy>().life_taker;
             // láta leikman missa líf
-            Score_M.Life_loss();
+            Score_M.Life_loss(loss);
         }
     }
     private void OnTriggerEnter(Collider other)

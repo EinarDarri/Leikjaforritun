@@ -69,9 +69,9 @@ public class Score_Manager : MonoBehaviour
         }
     }
     // fall sem lætur leiman missa líf
-    public void Life_loss() {
-        // draga 1 frá lífi leikmans
-        Lif--;
+    public void Life_loss(int loss) {
+        // draga töluna loss frá lífi leikmans
+        Lif-= loss;
     }
     // fall sem vistar ástæðu dauða
     public void astaeda_dauda(string astaeda = null){

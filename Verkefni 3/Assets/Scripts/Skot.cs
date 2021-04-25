@@ -4,29 +4,17 @@ using UnityEngine;
 
 public class Skot : MonoBehaviour
 {
-    // ScoreM = Score Manager
-    GameObject scoreM;
-    Score_Manager Score;
-    private void Start()
-    {
-        // teingjast við Score Manager
-        scoreM = GameObject.Find("Score Holder");
-        Score = scoreM.GetComponent<Score_Manager>();
-    }
     // þetta er keyrt þegar skotið snertir einhvað
     private void OnCollisionEnter(Collision collision)
     {
         // ef að skotið leindir á óvini
         if (collision.collider.tag == "Enemy")
         {
-            try
-            {
-                // hæka stig leikmans um 5
-                Score.Up_Score(5);
-                // eyða óvini
-                Destroy(collision.gameObject);
-            }
-            catch { }
+            // teingjast við Enemy Scriptuna hjá þeim óvini og láta það vita að hann var skotinn
+            collision.collider.gameObject.GetComponent<Enemy>().Hit();
+            // eyða þessari byssu kúlu
+            Destroy(this.gameObject);
+          
         }
     }
 }

@@ -108,6 +108,7 @@ GameObject:
   - component: {fileID: 2492442856155420121}
   - component: {fileID: 2492442856155420126}
   - component: {fileID: 2492442856155420125}
+  - component: {fileID: 6764765592930788963}
   m_Layer: 0
   m_Name: "\xD3vinur"
   m_TagString: Enemy
@@ -219,6 +220,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb045f4e9c2a0064f99368aa9e50cc00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 0.05
+--- !u!114 &6764765592930788963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2492442856155420120}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d70dc9ed91a34f4bacf98b2534af3ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Stig: 5
+  life: 1
 --- !u!1 &2492442856197306168
 GameObject:
   m_ObjectHideFlags: 0

@@ -6,7 +6,8 @@ public class Player_Folow : MonoBehaviour
 {
     // beita Fyrir leiman svo óvinur viti hvern á að elta
     Transform Player;
-    float speed = 0.052f;
+    // breita fyrir hvaða á óvini
+    public float speed = 0.05f;
     // það sem Y ásin fyrir rotation þar að vera styltur á til að óvinur snýr að leikmani
     float rotation;
     // leingdin á X ás að leikmanni

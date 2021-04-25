@@ -20,4 +20,8 @@ public class Scene_Swap : MonoBehaviour
         }
         SceneManager.LoadScene(sean);
     }
+    public void End()
+    {
+        Application.Quit();
+    }
 }
