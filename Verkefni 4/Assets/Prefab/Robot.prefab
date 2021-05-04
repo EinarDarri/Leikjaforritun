@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3287715173101067782}
   - component: {fileID: 3287715173101067785}
   - component: {fileID: 3287715173101067784}
+  - component: {fileID: 7241533536080107582}
   m_Layer: 0
   m_Name: Robot
   m_TagString: Untagged
@@ -28,7 +29,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3287715173101067789}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.62, y: -2.24, z: 0}
+  m_LocalPosition: {x: 1.13, y: -2.71, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -147,3 +148,22 @@ MonoBehaviour:
   speed: 2
   vertical: 1
   changeTime: 3
+--- !u!95 &7241533536080107582
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3287715173101067789}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8e30684cf0517324e98913cb0feea4cb, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
