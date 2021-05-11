@@ -20,9 +20,17 @@ public class EnemyController : MonoBehaviour
 
     AudioSource Hljod;
 
+    // game Master
+    Game_Controler Master;
+
     // Start is called before the first frame update
     void Start()
     {
+        // teingjast við game master
+        Master = GameObject.Find("Game_Master").GetComponent<Game_Controler>();
+        // bæta 1 óvin við talninguna
+        Master.ovinir++;
+
         // teingjast við rigidbody2D
         rigidbody2D = GetComponent<Rigidbody2D>();
         // setja upp timer
@@ -97,6 +105,8 @@ public class EnemyController : MonoBehaviour
     // fall til að kalla á til að laga vélmenið
     public void Fix()
     {
+        // taka 1 óvin frá talningun
+        Master.ovinir--;
         broken = false;
         rigidbody2D.simulated = false;
         //sína animation fyrir lagað vélmeni
