@@ -12,6 +12,7 @@ public class DamageZone : MonoBehaviour
         // ef að þetta nær teingingu við player controler script
         if (Controler != null)
         {
+            // taka líf af leikani
             Controler.ChangeHealth(-1);
         }
     }
