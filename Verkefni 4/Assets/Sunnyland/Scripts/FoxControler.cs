@@ -7,27 +7,18 @@ using UnityEngine.UI;
 {
     // breitur
     public float speed = 3.0f;
-    public float JumpSpeed = 40f;
-    // hreifing vertical
-    float move_vertical { get {
-            if (vertical <= 0)
-            {
-                return gravity;
-            }
-            else
-            {
-                return JumpSpeed;
-            }
-        } }
-    // mitt þíngdar afl
-    public float gravity = 5f;
+    public float Jumpforce = 400f;
+    // er leimaður að snerta jörð?
+    public bool IsOnGroun;
     // stig
-    int stig;
+    public int stig;
     // rigid body
     Rigidbody2D rigidbody2d;
     // input
     float horizontal;
     float vertical;
+
+    GameControler Master;
 
     // UI
     // score texti
@@ -40,14 +31,14 @@ using UnityEngine.UI;
     // Start is called before the first frame update
     void Start()
     {
-        // þýngdar afl fer niður
-        gravity = gravity * -1;
         // teingjast við Rigidbody2d
         rigidbody2d = GetComponent<Rigidbody2D>();
         // teingjast við Animator
         animator = GetComponent<Animator>();
         // birta stig leikmans
         update_score_text();
+        // teingjast við GameContorler Script
+        Master = GameObject.Find("GameManager").GetComponent<GameControler>();
     }
 
     // Update is called once per frame
@@ -57,27 +48,41 @@ using UnityEngine.UI;
         horizontal = Input.GetAxis("Horizontal");
         vertical = Input.GetAxis("Vertical");
         // ef að bæði Inputinn eru ekki ≈ 0
-        if (!Mathf.Approximately(horizontal, 0.0f) || !Mathf.Approximately(vertical, 0.0f))
+        if (!Mathf.Approximately(horizontal, 0.0f))
         {
-            lookDirection.Set(horizontal, vertical);
+            lookDirection.Set(horizontal, 0);
             lookDirection.Normalize();
         }
         // segja animator hvað er að gerast
         animator.SetFloat("MoveX", lookDirection.x);
-        animator.SetFloat("MoveY", lookDirection.y);
-        animator.SetFloat("Speed", new Vector2(horizontal, vertical).magnitude);
+        animator.SetFloat("MoveY", rigidbody2d.velocity.y);
+        animator.SetFloat("Speed", new Vector2(horizontal, 0).magnitude);
     }
 
     void FixedUpdate()
     {
-        // hreifing
-        rigidbody2d.velocity = new Vector2(speed * horizontal, move_vertical);
+        // hreifing fyrir x ás
+        // Debug.Log(rigidbody2d.velocity.y);
+        rigidbody2d.velocity = new Vector2(speed * horizontal, rigidbody2d.velocity.y);
+        if (IsOnGroun && vertical >= 0.4)
+        {
+            rigidbody2d.AddForce( new Vector2 (0, Jumpforce));
+            animator.SetTrigger("Jump");
+        }
+
+        IsOnGroun = false;
         
         
     }
 
     public void Stiga_breiting(int breiting)
     {
+        // ef að það er verið að lækka stig leikmans
+        if (breiting < 0)
+        {
+            // lækka fjölda stiga sem hann þarf að fá til að vinna
+            Master.upScore(breiting);
+        }
         stig += breiting;
         // birta stig leikmans
         update_score_text();
@@ -87,4 +92,13 @@ using UnityEngine.UI;
     {
         Score_Text.text = "Score : " + stig.ToString();
     }
+
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if (collision.collider.name == "Tilemap")
+        {
+            IsOnGroun = true;
+        }
+    }
+
 }

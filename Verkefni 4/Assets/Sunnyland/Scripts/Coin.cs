@@ -6,9 +6,18 @@ public class Coin : MonoBehaviour
 {
     // hversu mörg stig þessi króna gefur
     public int points = 5;
-    
+    // teingast við script
+    GameControler Master;
+
+    void Start()
+    {
+        Master = GameObject.Find("GameManager").GetComponent<GameControler>();
+        // Hæka max score
+        Master.upScore(points);
+        
+    }
     // þegar eithvað snertir krónuna
-    private void OnTriggerEnter2D(Collider2D collision)
+    void OnTriggerEnter2D(Collider2D collision)
     {
         // teingjast við player script
         FoxControler Fox = collision.GetComponent<FoxControler>();

@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/Scenes/Tapa\xF0ir.unity"
     guid: c7fc92e3053f23b47b243594574d0bd7
+  - enabled: 1
+    path: Assets/Scenes/Sunny_Land Leikur.unity
+    guid: 83e29ee288f786442880445c42ae05c6
   m_configObjects: {}
